@@ -1,4 +1,2 @@
 # hello-world
-I like Hello.
-
-This is a edited file.
+GitHub is a new challenge.
